@@ -1,0 +1,19 @@
+{
+	"private": true,
+	"name": "db-hafas-rpc-server",
+	"description": "Using hafas-client-rpc, expose db-hafas as a WebSocket server.",
+	"version": "1.0.0",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/db-hafas-rpc-server",
+	"repository": "derhuerst/db-hafas-rpc-server",
+	"bugs": "https://github.com/derhuerst/db-hafas-rpc-server/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=6"
+	}
+}
