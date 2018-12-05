@@ -17,6 +17,8 @@ npm install --production
 env PORT=8080 npm start
 ```
 
+[A Docker image is available as `derhuerst/db-hafas-rpc-server`.](https://hub.docker.com/r/derhuerst/db-hafas-rpc-server)
+
 
 ## Contributing
 
