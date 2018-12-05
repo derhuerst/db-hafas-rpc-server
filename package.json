@@ -15,5 +15,12 @@
 	"license": "ISC",
 	"engines": {
 		"node": ">=6"
+	},
+	"dependencies": {
+		"hafas-client-rpc": "^2.2.2",
+		"db-hafas": "^3.0.1"
+	},
+	"scripts": {
+		"start": "node index.js"
 	}
 }
